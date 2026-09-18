@@ -232,7 +232,7 @@ Los archivos generados automáticamente por macOS, como `.DS_Store` y la carpeta
 
 El informe y las evidencias experimentales se encuentran disponibles en el repositorio de GitHub:
 
-[Repositorio de GitHub](https://github.com/sephppx/Laboratorio-02-Tecnologia-Inalambrica)
+[Repositorio de GitHub](https://github.com/sephppx/Laboratorio-02---Tecnologia-Inalambrica)
 
 ---
 
