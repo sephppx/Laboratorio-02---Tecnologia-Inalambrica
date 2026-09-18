@@ -163,7 +163,7 @@ Evidencia/
 │   ├── Radio Corazon.jpeg
 │   └── FM Plus.jpeg
 │
-└── VHF_UHF/
+└── VHF:UHF/
     ├── Canal13 VHF.jpeg
     └── Canal24UHF.jpeg
 ```
@@ -219,7 +219,7 @@ Laboratorio-02-Tecnologia-Inalambrica/
     │   ├── Radio Corazon.jpeg
     │   └── FM Plus.jpeg
     │
-    └── VHF_UHF/
+    └── VHF:UHF/
         ├── Canal13 VHF.jpeg
         └── Canal24UHF.jpeg
 ```
