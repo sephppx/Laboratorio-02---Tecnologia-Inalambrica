@@ -76,7 +76,7 @@ Para el canal 24 UHF se observó una señal de banda ancha dentro del rango corr
 
 Las capturas utilizadas como evidencia se encuentran en:
 
-`Evidencia/VHF_UHF/`
+`Evidencia/VHF:UHF/`
 
 ---
 
